@@ -1,2 +1,2 @@
 Vadzim Bahutski
-https://www.codecademy.com/users/TeflonHotDog/achievements
+HTML CSS Basics: https://www.codecademy.com/users/TeflonHotDog/achievements
