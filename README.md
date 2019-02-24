@@ -1,1 +1,2 @@
-# rsschool-2019Q1-html-css
+Vadzim Bahutski
+https://www.codecademy.com/users/TeflonHotDog/achievements
